@@ -11,5 +11,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: 10
+          max_post_count: 30
           feed_list: "https://qiita.com/PontaX/feed, https://zenn.dev/wattanx/feed, https://wattanx.hatenablog.com/rss"
