@@ -1,8 +1,4 @@
 <!-- BLOG-POST-LIST:START -->
-- [(C#)Expression Tree(式木)を使って動的にインスタンスを生成する。](https://zenn.dev/wattanx/articles/be894132aef68a)
-- [AWS EC2に立ち上げたWindows ServerにIISをインストールする](https://zenn.dev/wattanx/articles/3a82bdd2058df9)
-- [AWS EC2で起動したWindows Serverを日本語設定にする](https://zenn.dev/wattanx/articles/4c4b3750ba8a92)
-- [Xamarin.UITestのススメ](https://zenn.dev/wattanx/articles/268a1c32a409ad)
 - [Nuxt.jsでVuex+TypeScriptを使う](https://wattanx.hatenablog.com/entry/2020/12/06/225447)
 - [GoogleAppScriptを使ってSlackAppを作成する。](https://wattanx.hatenablog.com/entry/2020/10/11/224052)
 - [SQLServerのストアドプロシージャ](https://wattanx.hatenablog.com/entry/2019/11/13/213820)
